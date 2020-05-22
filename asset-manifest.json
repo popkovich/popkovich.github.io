@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aae1370d.chunk.css",
+    "main.js": "/static/js/main.122567b9.chunk.js",
+    "main.js.map": "/static/js/main.122567b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fb3e116.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fb3e116.js.map",
+    "static/js/2.6c0d0e07.chunk.js": "/static/js/2.6c0d0e07.chunk.js",
+    "static/js/2.6c0d0e07.chunk.js.map": "/static/js/2.6c0d0e07.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.10f1c30ad1afd20d8924f735f7f2b171.js": "/precache-manifest.10f1c30ad1afd20d8924f735f7f2b171.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.aae1370d.chunk.css.map": "/static/css/main.aae1370d.chunk.css.map",
+    "static/js/2.6c0d0e07.chunk.js.LICENSE.txt": "/static/js/2.6c0d0e07.chunk.js.LICENSE.txt",
+    "static/media/aboutphoto.webp": "/static/media/aboutphoto.714a46d4.webp",
+    "static/media/inst.png": "/static/media/inst.41b60508.png",
+    "static/media/upbtn.png": "/static/media/upbtn.89209a13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fb3e116.js",
+    "static/js/2.6c0d0e07.chunk.js",
+    "static/css/main.aae1370d.chunk.css",
+    "static/js/main.122567b9.chunk.js"
+  ]
+}
